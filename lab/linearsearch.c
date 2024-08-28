@@ -1,3 +1,6 @@
+//Linear Search
+//Anaga Raghavan
+//Roll No:8
 #include<stdio.h>
 int main() {
 	int a[50],search,i,found=0,num;

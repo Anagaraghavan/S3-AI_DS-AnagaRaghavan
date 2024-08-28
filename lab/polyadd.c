@@ -1,4 +1,6 @@
-
+//Polyaddition
+//Anaga Raghavan
+//Roll No:
 #include<stdio.h>
 struct poly {
     int coeff;
